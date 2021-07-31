@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="toast_text_error_network_not_online">You\'r network is not online</string>
+    <string name="toast_text_error_server_not_online">The server is not online right now, plase try again later</string>
+</resources>

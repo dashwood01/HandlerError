@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="toast_text_error_network_not_online">لطفا اینترنت خود را بررسی کنید</string>
+    <string name="toast_text_error_server_not_online">در حال حاضر مشکلی برای سرور پیش آمده لطفا بعدا تلاش کنید</string>
+</resources>
