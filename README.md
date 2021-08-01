@@ -1,7 +1,5 @@
 # HandlerError
 
-Jitpack and maven center have problem right now, so download library and copy it in lib folder then implementation
-
 #### You can use this library for rest api, restful api, swap api
 
 ```gradle
