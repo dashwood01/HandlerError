@@ -5,7 +5,17 @@ Jitpack and maven center have problem right now, so download library and copy it
 #### You can use this library for rest api, restful api, swap api
 
 ```gradle
-    implementation project(':ResponseError')
+    allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+    
+```
+
+```gradle
+    implementation 'com.github.dashwood01:HandlerError:0.2'
 ```
 
 ### Use it like this
