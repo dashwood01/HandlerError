@@ -2,6 +2,9 @@
 
 #### You can use this library for rest api, restful api, swap api
 
+[![](https://jitpack.io/v/dashwood01/HandlerError.svg)](https://jitpack.io/#dashwood01/HandlerError)
+
+
 ```gradle
     allprojects {
 		repositories {
